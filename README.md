@@ -5,9 +5,9 @@
 
 ## Como acessar os exercícios originais? (sem estilização, etc)
 - Os exercícios estão organizados por branch, em suma:
-  - **master:** Contém TODOS os exercícios respondidos, mas com adições de tag para organização e/ou estilização por CSS.
-  - **list-1-assessment** (ATUAL): Contém as resoluções individuais da **Lista 1 de Exercícios em HTML - Avaliação**.
-  - **original-exercise-series-1:** Contém as resoluções individuais da **Série de Exercicios**.
+  - ATUAL - [**master:**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/master) Contém TODOS os exercícios respondidos, mas com adições de tag para organização e/ou estilização por CSS.
+  - [**list-1-assessment**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-1-assessment): Contém as resoluções individuais da **Lista 1 de Exercícios em HTML - Avaliação**.
+  - [**original-exercise-series-1:**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/original-exercise-series-1) Contém as resoluções individuais da **Série de Exercicios**.
 
 ## Estrutura dos Arquivos
 
