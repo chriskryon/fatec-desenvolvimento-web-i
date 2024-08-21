@@ -6,13 +6,14 @@
   - **master:** Os exercícios estão respondidos, mas podem conter adições de tag para organização e/ou estilização por CSS.
   - **github-pages:** Criada para a página do ```Github Pages```, usada como base a master.
   - **list-1-assessment**: Contém as resoluções individuais da **Lista 1 de Exercícios em HTML - Avaliação**.
-  - **original-exercise-series:** Contém as resoluções individuais da **Série de Exercicios**.
+  - **original-exercise-series-1:** Contém as resoluções individuais da **Série de Exercicios**.
 
 ## Estrutura dos Arquivos
 
 ### **Atividade 1**:
-[Branch - Arquivos originais]()
-- _Arquivos conforme a lista (sem nenhuma adição de tag e/ou estilização__
+[Branch - Arquivos originais](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/original-exercise-series-1)
+- _Arquivos conforme a lista (sem nenhuma adição de tag e/ou estilização)_
+
 | Exercício | Descrição | Link |
 |---|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | Página de Apresentação de uma Empresa| [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/master/atividade_1/ex_1/index.html)  |
@@ -24,8 +25,9 @@
 
 
 ### **Atividade 2: Lista 1 de Exercícios em HTML - Avaliação**
-[Branch - Arquivos originais]()
+[Branch - Arquivos originais](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-1-assessment)
 - _Arquivos conforme a lista (sem nenhuma adição de tag e/ou estilização)_
+
 | Exercício | Descrição  | Link  |
 |---|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | Links | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/master/atividade_2/exercicio1.html)  |
