@@ -5,10 +5,10 @@
   - **OBSERVAÇÃO: Neste URL contém estilização, mas o resultado é o mesmo.**
 
 ## Sobre os exercícios
-- Estão organizados por branch::
-  - **master:** Contém TODOS os exercícios respondidos, mas com adições de tag para organização e/ou estilização por CSS.
-  - **list-1-assessment** (ATUAL): Contém as resoluções individuais da **Lista 1 de Exercícios em HTML - Avaliação**.
-  - **original-exercise-series-1:** Contém as resoluções individuais da **Série de Exercicios**.
+- Os exercícios estão organizados por branch, em suma:
+  - **ATUAL** - [**list-1-assessment**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-1-assessment): Contém as resoluções individuais da **Lista 1 de Exercícios em HTML - Avaliação**.
+  - [**original-exercise-series-1:**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/original-exercise-series-1) Contém as resoluções individuais da **Série de Exercicios**.
+  - [**master:**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/master) Contém TODOS os exercícios respondidos, mas com adições de tag para organização e/ou estilização por CSS.
 
 ## Estrutura dos Arquivos
 
