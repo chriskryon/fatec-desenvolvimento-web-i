@@ -40,4 +40,4 @@
 | 7  | Tabela  | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/master/atividade_2/exercicio7.html)  |
 | 8  | Tabela com mesclagem de linhas | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/master/atividade_2/exercicio8.html)  |
 | 9  | Tabela com mesclagem de linhas e colunas| [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/master/atividade_2/exercicio9.html) |
-| 10 | Índice para os exercícios| [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/master/atividade_2/exercicio10.html) |
+| 10 | Índice para os exercícios| [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/master/atividade_2/index.html) |
