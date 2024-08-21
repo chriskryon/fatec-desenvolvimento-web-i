@@ -12,7 +12,7 @@
 ## Estrutura dos Arquivos
 
 ### **Atividade 1**:
-[Branch ```list-1-assessment``` - Arquivos originais](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-1-assessment)
+[Branch ```original-exercise-series-1``` - Arquivos originais](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/original-exercise-series-1)
 - _Arquivos conforme a lista (sem nenhuma adição de tag e/ou estilização)_
 
 | Exercício | Descrição | Link |
@@ -26,7 +26,7 @@
 
 
 ### **Atividade 2: Lista 1 de Exercícios em HTML - Avaliação**
-[Branch ```original-exercise-series-1``` - Arquivos originais](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/original-exercise-series-1)
+[Branch ```list-1-assessment``` - Arquivos originais](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-1-assessment)
 - _Arquivos conforme a lista (sem nenhuma adição de tag e/ou estilização)_
 
 | Exercício | Descrição  | Link  |
