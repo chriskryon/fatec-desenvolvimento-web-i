@@ -4,9 +4,9 @@
 - Em anexo, estão os exercícios originais, ou seja, entregues conforme foram moldados no Teams.
 - Mas para melhor organização, na branch:
   - **master:** Os exercícios estão respondidos, mas podem conter adições de tag para organização e/ou estilização por CSS.
-  - **github-pages:** Criada para a página do ```Github Pages```, usada como base a master.
   - **list-1-assessment**: Contém as resoluções individuais da **Lista 1 de Exercícios em HTML - Avaliação**.
   - **original-exercise-series-1:** Contém as resoluções individuais da **Série de Exercicios**.
+- Os exercícios também podem ser analisados visualmente por [aqui](https://chriskryon.github.io/fatec-desenvolvimento-web-i/)
 
 ## Estrutura dos Arquivos
 

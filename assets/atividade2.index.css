@@ -1,0 +1,15 @@
+ol {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px
+
+}
+
+li {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+li:hover {
+    box-shadow: 0 0 10px #ccc;
+}
