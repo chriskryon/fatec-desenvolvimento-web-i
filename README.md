@@ -1,17 +1,18 @@
 # Exercícios HTML
 
 - Esta repositório contém exercícios de HTML desenvolvidos durante o semestre.
-- Em anexo, estão os exercícios originais, ou seja, entregues conforme foram moldados no Teams.
-- Mas para melhor organização, na branch:
-  - **master:** Os exercícios estão respondidos, mas podem conter adições de tag para organização e/ou estilização por CSS.
-  - **list-1-assessment**: Contém as resoluções individuais da **Lista 1 de Exercícios em HTML - Avaliação**.
-  - **original-exercise-series-1:** Contém as resoluções individuais da **Série de Exercicios**.
 - Os exercícios também podem ser analisados visualmente por [aqui](https://chriskryon.github.io/fatec-desenvolvimento-web-i/)
+
+## Como acessar os exercícios originais? (sem estilização, etc)
+- Os exercícios estão organizados por branch, em suma:
+  - **master:** Contém TODOS os exercícios respondidos, mas com adições de tag para organização e/ou estilização por CSS.
+  - **list-1-assessment** (ATUAL): Contém as resoluções individuais da **Lista 1 de Exercícios em HTML - Avaliação**.
+  - **original-exercise-series-1:** Contém as resoluções individuais da **Série de Exercicios**.
 
 ## Estrutura dos Arquivos
 
 ### **Atividade 1**:
-[Branch - Arquivos originais](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/original-exercise-series-1)
+[Branch ```list-1-assessment``` - Arquivos originais](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-1-assessment)
 - _Arquivos conforme a lista (sem nenhuma adição de tag e/ou estilização)_
 
 | Exercício | Descrição | Link |
@@ -25,7 +26,7 @@
 
 
 ### **Atividade 2: Lista 1 de Exercícios em HTML - Avaliação**
-[Branch - Arquivos originais](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-1-assessment)
+[Branch ```original-exercise-series-1``` - Arquivos originais](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/original-exercise-series-1)
 - _Arquivos conforme a lista (sem nenhuma adição de tag e/ou estilização)_
 
 | Exercício | Descrição  | Link  |
