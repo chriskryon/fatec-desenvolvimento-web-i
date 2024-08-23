@@ -16,12 +16,12 @@
 
 
 body {
-    background-color: var(--color-surface-100);
+    background: linear-gradient(45deg, #000000, #222222, #333333);
     color: var(--color-surface-600);
     font-family: sans-serif;
     display: flex;
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center;     /* Centraliza verticalmente (opcional) */
+    justify-content: center;
+    align-items: center;
     min-height: 100vh;   
     
 }
@@ -46,7 +46,6 @@ a:hover {
 }
 
 div {
-    background-color: var(--color-surface-200);
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
@@ -56,13 +55,12 @@ div {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column; 
-
     align-items: center;
     width: 80%;
     max-width: 960px;
     margin: 30px 0 30px 0;
-    box-shadow: 0 2px 5px var(--color-primary-100);
-
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 1px solid #717171;
 }
 
 .grid {   
@@ -96,12 +94,9 @@ div {
     width: 100%;
 }
 
-.div-no-bg {
-    background-color: var(--color-surface-300) !important;
-}
-
 .card {
-    background-color: var(--color-surface-300);
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 1px solid #717171;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -111,7 +106,8 @@ div {
 }
 
 .card-2 {
-    background-color: var(--color-surface-300);
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 1px solid #717171;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -120,7 +116,8 @@ div {
 }
 
 .card-3 {
-    background-color: var(--color-surface-300) !important;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    border: 1px solid #717171;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);

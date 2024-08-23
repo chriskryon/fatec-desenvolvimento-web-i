@@ -16,7 +16,7 @@
 
 
 body {
-    background-color: var(--color-surface-100);
+    background: linear-gradient(45deg, #000000, #222222, #333333);
     color: var(--color-surface-600);
     font-family: sans-serif;
     display: flex;
@@ -46,7 +46,7 @@ a:hover {
 }
 
 div {
-    background-color: var(--color-surface-200);
+    /* background-color: var(--color-surface-200); */
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
@@ -61,8 +61,10 @@ div {
     width: 80%;
     max-width: 960px;
     margin: 30px 0 30px 0;
-    box-shadow: 0 2px 5px var(--color-primary-100);
-
+    /* box-shadow: 0 2px 5px var(--color-primary-100); */
+    /* box-shadow: 0 2px 5px var(--color-primary-100), 0 0 12px var(--color-primary-100); */
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 1px solid #717171;
 }
 
 .grid {   
@@ -111,7 +113,8 @@ div {
 }
 
 .card-2 {
-    background-color: var(--color-surface-300);
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 1px solid #717171;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -162,4 +165,13 @@ div {
     border-radius: 5px;
     cursor: pointer;
     width: 100%;
+}
+
+th, td {
+    border-radius: 3px;
+    border-color: #717171;
+}
+
+thead tr th, tfoot tr td {
+    padding: 3px;
 }
