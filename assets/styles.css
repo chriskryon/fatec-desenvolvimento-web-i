@@ -23,7 +23,7 @@ body {
     justify-content: center; /* Centraliza horizontalmente */
     align-items: center;     /* Centraliza verticalmente (opcional) */
     min-height: 100vh;   
-    
+    margin: 0;
 }
 
 h1, h2, h3, h4, h5 {
