@@ -1,0 +1,55 @@
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 3px;
+}
+
+.card {
+  padding: 10px !important;
+  margin-bottom: 10px !important;
+  margin-right: 10px !important;
+}
+
+.container {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.form-group {
+  display: flex;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+label {
+  flex: 0.5;
+  text-align: left;
+}
+
+input {
+  flex: 2;
+}
+
+button {
+  width: 100%;
+}
+
+input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box; /* Inclui padding e border na largura total */
+}
+
+input:focus {
+  outline: none;
+  border-color: #ccc;
+  box-shadow: 0 0 5px rgba(128, 128, 128, 0.5);
+}
