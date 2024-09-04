@@ -16,13 +16,13 @@
 ### **Atividade 2: Lista 1 de Exercícios em HTML - Avaliação**
 | Exercício | Descrição  | Link  |
 |---|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | Formulário 1 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-1-assessment/atividade_1/exercicio1.html)  |
-| 2  | Formulário 2 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-1-assessment/atividade_2/exercicio2.html)  |
-| 3  | Formulário 3 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-1-assessment/atividade_3/exercicio3.html)  |
-| 4  | Formulário 4  | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-1-assessment/atividade_4/exercicio4.html)  |
-| 5  | Formulário 5 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-1-assessment/atividade_5/exercicio5.html)  |
-| 6  | Formulário 6 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-1-assessment/atividade_6/exercicio6.html)  |
-| 7  | Formulário 7 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-1-assessment/atividade_7/exercicio7.html)  |
-| 8  | Formulário 8 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-1-assessment/atividade_8/exercicio8.html)  |
-| 9  | Formulário 9 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-1-assessment/atividade_9/exercicio9.html) |
-| 10 | Formulário 10 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-1-assessment/atividade_10/exercicio10.html) |
+| 1  | Formulário 1 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio1.html)  |
+| 2  | Formulário 2 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio2.html)  |
+| 3  | Formulário 3 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio3.html)  |
+| 4  | Formulário 4  | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio4.html)  |
+| 5  | Formulário 5 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio5.html)  |
+| 6  | Formulário 6 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio6.html)  |
+| 7  | Formulário 7 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio7.html)  |
+| 8  | Formulário 8 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio8.html)  |
+| 9  | Formulário 9 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio9.html) |
+| 10 | Formulário 10 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio10.html) |
