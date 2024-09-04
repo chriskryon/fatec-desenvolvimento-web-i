@@ -13,9 +13,10 @@
 
 ## Estrutura dos Arquivos
 
-### **Atividade 2: Lista 1 de Exercícios em HTML - Avaliação**
+### **Atividade 3: Lista 2 de Exercícios de HTML - Formulários**
 | Exercício | Descrição  | Link  |
 |---|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| index | Página de acesso para os exercícios | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/index.html) |
 | 1  | Formulário 1 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio1.html)  |
 | 2  | Formulário 2 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio2.html)  |
 | 3  | Formulário 3 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_3/exercicio3.html)  |
