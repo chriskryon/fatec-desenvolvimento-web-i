@@ -68,13 +68,13 @@
 | Exercício | Descrição  | Link  |
 |---|---|---|
 | index | Página de acesso para os exercícios | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_4_css/index.html) |
-| 1  | Formulário 1 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio1.html)  |
-| 2  | Formulário 2 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio2.html)  |
-| 3  | Formulário 3 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio3.html)  |
-| 4  | Formulário 4 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio4.html)  |
-| 5  | Formulário 5 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio5.html)  |
-| 6  | Formulário 6 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio6.html)  |
-| 7  | Formulário 7 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio7.html)  |
-| 8  | Formulário 8 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio8.html)  |
-| 9  | Formulário 9 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio9.html) |
-| 10 | Formulário 10 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio10.html) |
+| 1  | Exercício 1 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio1.html)  |
+| 2  | Exercício 2 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio2.html)  |
+| 3  | Exercício 3 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio3.html)  |
+| 4  | Exercício 4 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio4.html)  |
+| 5  | Exercício 5 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio5.html)  |
+| 6  | Exercício 6 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio6.html)  |
+| 7  | Exercício 7 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio7.html)  |
+| 8  | Exercício 8 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio8.html)  |
+| 9  | Exercício 9 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio9.html) |
+| 10 | Exercício 10 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio10.html) |
