@@ -3,6 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <title>Exercício 7</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+    <link rel="stylesheet" href="../assets/hover.css" />
+    <link rel="stylesheet" href="../assets/atividade4.index.css" />
+
     <style>
       body {
         font-family: Calibri;
@@ -43,16 +47,18 @@
     </style>
   </head>
   <body>
-    <form>
-      <div class="linha">
-        <label for="nome">Nome</label>
-        <input type="text" name="nome" id="nome" value="Maria" />
-      </div>
-      <div class="linha">
-        <label for="idade">Idade</label>
-        <input type="number" value="18" name="idade" id="idade" />
-      </div>
-      <button>Enviar</button>
-    </form>
+    <div class="container">
+      <form>
+        <div class="linha form-group">
+          <label for="nome">Nome</label>
+          <input type="text" name="nome" id="nome" value="Maria" />
+        </div>
+        <div class="linha form-group">
+          <label for="idade">Idade</label>
+          <input type="number" value="18" name="idade" id="idade" />
+        </div>
+        <button>Enviar</button>
+      </form>
+    </div>
   </body>
 </html>
