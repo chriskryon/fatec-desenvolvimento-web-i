@@ -1,0 +1,10 @@
+aulas/
+node_modules/
+dist/
+.vscode/
+.git/
+*.log
+*.tsbuildinfo
+
+npm-debug.log*
+yarn-error.log*
