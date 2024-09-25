@@ -1,27 +1,33 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
   <head>
-    <title>Meu Site</title>
-    <link rel="stylesheet" href="assets/styles.css" />
-    <link rel="stylesheet" href="assets/hover.css" />
+    <meta charset="utf-8" />
+    <title>Exemplo</title>
+    <style>
+      span {
+        margin: 20px;
+        padding: 20px;
+        width: 100px;
+        height: 100px;
+        background-color: yellow;
+        border: 2px solid blue;
+        /* display: block; */
+      }
+    </style>
   </head>
   <body>
-    <div class="container cards">
-      <a class="card-2 hvr-grow-shadow" href="atividade_1">
-        <h2>Lista 1 - Treinamento</h2>
-      </a>
-
-      <a class="card-2 hvr-grow-shadow" href="atividade_2">
-        <h2>Lista 1 de Exercícios em HTML - Avaliação</h2>
-      </a>
-
-      <a class="card-2 hvr-grow-shadow" href="atividade_3">
-        <h2>Lista 2 de Exercícios de HTML - Formulários</h2>
-      </a>
-
-      <a class="card-2 hvr-grow-shadow" href="atividade_4_css">
-        <h2>Lista de Exercícios 3 - CSS</h2>
-      </a>
-    </div>
+    <p>
+      As propriedades margem (margem externa), padding (margin interna) e border
+      são respeitadas na horizontal nos elementos block inline.
+    </p>
+    <p>
+      Nos elementos block inline como
+      <span>span</span>
+      as propriedades width e height não são respeitadas.
+    </p>
+    <p>
+      Veja que o resultado não possui 100px de largura e altura e não possui
+      margem vertical.
+    </p>
   </body>
 </html>
