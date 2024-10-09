@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <title>Exercício 7</title>
+    <style>
+      html {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        height: 100vh;
+        font-family: calibri;
+      }
+
+      body {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        height: 100vh;
+      }
+
+      #menu {
+        width: 100vw;
+        height: 70px;
+        border-bottom: 1px solid #aaa;
+        box-sizing: border-box;
+        flex: 0 0 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      #menu > #titulo {
+        font-size: 3rem;
+        font-weight: bold;
+      }
+
+      #menu > div {
+        display: flex;
+        align-items: center;
+      }
+
+      #corpo {
+        width: 100vw;
+        background-color: #444;
+        flex: 1 1 auto;
+        display: flex;
+      }
+
+      #esquerda {
+        background-color: yellow;
+        width: 200px;
+      }
+
+      #direita {
+        background-color: cyan;
+        width: 100%;
+      }
+
+      #rodape {
+        width: 100vw;
+        border-top: 1px solid #aaa;
+        box-sizing: border-box;
+        flex: 0 0 70px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="menu">
+      <div id="titulo">
+        <img src="./imagens/css.png" alt="" width="60" height="60" />
+        <div>CSS3</div>
+      </div>
+      <div id="avatar">
+        <div>Bill Gates</div>
+        <img src="./imagens/avatar.jpg" alt="" width="42" height="42" />
+      </div>
+    </div>
+    <div id="corpo">
+      <div id="esquerda"></div>
+      <div id="direita"></div>
+    </div>
+    <div id="rodape">
+      <img src="./imagens/Fatec.png" alt="" width="87" height="41" />
+      <img src="./imagens/CPS.png" alt="" width="85" height="56" />
+      <img src="./imagens/Brasao.png" alt="" width="81" height="54" />
+    </div>
+  </body>
+</html>

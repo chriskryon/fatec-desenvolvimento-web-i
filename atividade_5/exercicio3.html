@@ -2,7 +2,7 @@
 <html lang="pt-BR">
   <head>
     <meta charset="utf-8" />
-    <title>Exercício 1</title>
+    <title>Exercício 3</title>
     <style>
       html {
         display: flex;
@@ -23,22 +23,41 @@
         height: 70px;
         border-bottom: 1px solid #aaa;
         box-sizing: border-box;
+        flex: 0 0 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+      }
+      #menu > div {
+        font-size: 3rem;
+        font-weight: bold;
       }
       #corpo {
         width: 100vw;
         background-color: #444;
+        flex: 1 1 auto;
       }
       #rodape {
         width: 100vw;
-        height: 70px;
         border-top: 1px solid #aaa;
         box-sizing: border-box;
+        flex: 0 0 70px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
       }
     </style>
   </head>
   <body>
-    <div id="menu"></div>
+    <div id="menu">
+      <img src="./imagens/css.png" alt="" width="60" height="60" />
+      <div id="texto-titulo">CSS3</div>
+    </div>
     <div id="corpo"></div>
-    <div id="rodape"></div>
+    <div id="rodape">
+      <img src="./imagens/Fatec.png" alt="" width="87" height="41" />
+      <img src="./imagens/CPS.png" alt="" width="85" height="56" />
+      <img src="./imagens/Brasao.png" alt="" width="81" height="54" />
+    </div>
   </body>
 </html>

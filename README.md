@@ -78,3 +78,18 @@
 | 8  | Exercício 8 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio8.html)  |
 | 9  | Exercício 9 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio9.html) |
 | 10 | Exercício 10 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio10.html) |
+
+### **Lista de Exercícios - CSS - Layout**
+| Exercício | Descrição  | Link  |
+|---|---|---|
+| index | Página de acesso para os exercícios | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_5/index.html) |
+| 1  | Exercício 1 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio1.html)  |
+| 2  | Exercício 2 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio2.html)  |
+| 3  | Exercício 3 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio3.html)  |
+| 4  | Exercício 4 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio4.html)  |
+| 5  | Exercício 5 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio5.html)  |
+| 6  | Exercício 6 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio6.html)  |
+| 7  | Exercício 7 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio7.html)  |
+| 8  | Exercício 8 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio8.html)  |
+| 9  | Exercício 9 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio9.html) |
+| 10 | Exercício 10 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio10.html) |
