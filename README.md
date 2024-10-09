@@ -6,6 +6,7 @@
 ## Como acessar os exercícios originais? (sem estilização, etc)
 - Os exercícios estão organizados por branch, em suma:
   - **ATUAL** - [**master:**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/master) Contém TODOS os exercícios respondidos, mas com adições de tag para organização e/ou estilização por CSS.
+  - [**list-4-flexbox**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-4-flexbox): Contém as resoluções individuais da **Lista de Exercícios - CSS - Layout**.
   - [**list3-css**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-3-css): Contém as resoluções individuais da **Lista de Exercícios 3 - CSS**.
   - [**list-2-forms**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-2-forms): Contém as resoluções individuais da **Lista 2 de Exercícios de HTML - Formulários***.
   - [**list-1-assessment**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-1-assessment): Contém as resoluções individuais da **Lista 1 de Exercícios em HTML - Avaliação**.
@@ -45,7 +46,7 @@
 | 10 | Índice para os exercícios| [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/master/atividade_2/index.html) |
 
 
-### **Atividade 2: Lista 2 de Exercícios de HTML - Formulários**
+### **Atividade 3: Lista 2 de Exercícios de HTML - Formulários**
 [Branch ```list-2-forms``` - Arquivos originais](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-2-forms)
 - _Arquivos conforme a lista (sem nenhuma adição de tag e/ou estilização)_
 
@@ -79,7 +80,7 @@
 | 9  | Exercício 9 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio9.html) |
 | 10 | Exercício 10 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio10.html) |
 
-### **Lista de Exercícios - CSS - Layout**
+### **Atividade 5 - Lista de Exercícios 4 - CSS - Layout**
 | Exercício | Descrição  | Link  |
 |---|---|---|
 | index | Página de acesso para os exercícios | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_5/index.html) |
