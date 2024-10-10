@@ -68,7 +68,7 @@
 ### **Atividade 4 - Lista de Exercícios 3 - CSS**
 | Exercício | Descrição  | Link  |
 |---|---|---|
-| index | Página de acesso para os exercícios | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_4_css/index.html) |
+| index | Página de acesso para os exercícios | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/index.html) |
 | 1  | Exercício 1 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio1.html)  |
 | 2  | Exercício 2 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio2.html)  |
 | 3  | Exercício 3 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-3-css/atividade_4_css/exercicio3.html)  |
@@ -83,7 +83,7 @@
 ### **Atividade 5 - Lista de Exercícios 4 - CSS - Layout**
 | Exercício | Descrição  | Link  |
 |---|---|---|
-| index | Página de acesso para os exercícios | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_5/index.html) |
+| index | Página de acesso para os exercícios | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/index.html) |
 | 1  | Exercício 1 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio1.html)  |
 | 2  | Exercício 2 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio2.html)  |
 | 3  | Exercício 3 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio3.html)  |
