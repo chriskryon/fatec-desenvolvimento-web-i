@@ -16,7 +16,7 @@
 ### **Atividade 5 - Lista de Exercícios - CSS - Layout**
 | Exercício | Descrição  | Link  |
 |---|---|---|
-| index | Página de acesso para os exercícios | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-2-forms/atividade_5/index.html) |
+| index | Página de acesso para os exercícios | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/index.html) |
 | 1  | Exercício 1 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio1.html)  |
 | 2  | Exercício 2 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio2.html)  |
 | 3  | Exercício 3 | [Acessar](https://github.com/chriskryon/fatec-desenvolvimento-web-i/blob/list-4-flexbox/atividade_5/exercicio3.html)  |
