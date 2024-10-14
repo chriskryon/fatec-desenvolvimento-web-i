@@ -1,0 +1,76 @@
+
+:root {
+  --color-primary-100: #03a9f4;
+  --color-primary-200: #4ab2f5;
+  --color-primary-300: #6abcf7;
+  --color-primary-400: #84c5f8;
+  --color-primary-500: #9bcefa;
+  --color-primary-600: #b1d8fb;
+  --color-surface-100: #121212;
+  --color-surface-200: #282828;
+  --color-surface-300: #3f3f3f;
+  --color-surface-400: #575757;
+  --color-surface-500: #717171;
+  --color-surface-600: #cacaca;
+  --azul: #03a9f4;
+  --bg-1: #33373A;
+  --bg-2: #181A1B;
+}
+
+#menu {
+  background-color: var(--bg-1);
+  border-bottom: 1px solid var(--azul);
+  color: var(--azul);
+}
+
+#corpo {
+  background-color: var(--bg-2);
+
+}
+
+#rodape {
+  background-color: var(--bg-1);
+  border-top: 1px solid var(--azul);
+  color: var(--azul);
+}
+
+#esquerda {
+  border-right: 1px solid var(--azul);
+  color: var(--azul);
+}
+
+fieldset {
+  width: 100%;
+  border: 1px solid #03a9f4;
+}
+
+th, td {
+  border-radius: 3px;
+  border-color: #717171;
+}
+
+thead tr th, tfoot tr td {
+  padding: 3px;
+}
+
+
+input:focus {
+  outline: none;
+  border: 3px solid var(--color-primary-200) !important;
+  color: #fff;
+}
+
+.botao:hover {
+  background-color: var(--color-primary-200);
+}
+
+#esquerda > div > a {
+  border: 1px solid #4169e1;
+  margin: 5px 10px;
+  border-radius: 12px;
+}
+
+#esquerda > div > a:hover {
+  border: 1px solid var(--azul);
+  color: var(--azul);
+}
