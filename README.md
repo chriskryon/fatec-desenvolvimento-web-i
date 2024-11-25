@@ -1,4 +1,4 @@
-# Branch ```list-5-media-queries```
+# Branch ```list-7-javascript```
 
 - Esta branch contém a resolução da **Lista de Exercícios - Javascript**, entregues conforme requisitos no Teams.
 
