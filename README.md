@@ -1,10 +1,11 @@
-# Branch ```list-5-media-queries```
+# Branch ```list-7-bootstrap```
 
-- Esta branch contém a resolução da **Lista de Exercícios - CSS - Layout**, de HTML, entregues conforme requisitos no Teams.
+- Esta branch contém a resolução da **Lista de Exercícios - Bootstrap**, de HTML, entregues conforme requisitos no Teams.
 
 ## Sobre os exercícios
 - Os exercícios estão organizados por branch, em suma:
-  - **ATUAL** - [**list-5-media-queries**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-5-media-queries): Contém as resoluções individuais da **Lista de Exercícios - CSS - Media Queries**.
+  - **ATUAL** - [**list-6-bootstrap**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-6-bootstrap): Contém as resoluções individuais da **Lista de Exercícios - Bootstrap**.
+  - [**list-5-media-queries**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-5-media-queries): Contém as resoluções individuais da **Lista de Exercícios - CSS - Media Queries**.
   - [**list-4-flexbox**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-4-flexbox): Contém as resoluções individuais da **Lista de Exercícios - CSS - Layout**.
   - [**list-3-css**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-3-css): Contém as resoluções individuais da **Lista de Exercícios 3 - CSS**.
   - [**list-2-forms**](https://github.com/chriskryon/fatec-desenvolvimento-web-i/tree/list-2-forms): Contém as resoluções individuais da **Lista 2 de Exercícios de HTML - Formulários**.
