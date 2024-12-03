@@ -1,0 +1,76 @@
+body {
+	font-family: "Courier New", Courier, monospace;
+	background: url("./img/bg.jpg") no-repeat center center fixed;
+	background-size: cover;
+	color: #00ff00;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+.form-container {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-content: stretch;
+	justify-content: center;
+	width: 30vw;
+	height: 60vh;
+	background-color: rgba(30, 30, 30, 0.8);
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+	backdrop-filter: blur(1px);
+}
+
+
+form {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+label {
+	margin-bottom: 5px;
+}
+
+input,
+select,
+button {
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	color: #00ff00;
+	background-color: rgba(31, 34, 41, 0.5);
+	backdrop-filter: blur(1px);
+}
+
+input {
+	border: .5px solid rgba(0, 255, 0, 0.5);
+}
+
+select:hover, button:hover, input:hover {
+	border: 0.001px solid #00ff00;
+}
+
+select:focus, input:focus {
+	outline: none;
+	border: .5px solid #00ff00;
+	box-shadow: 0 0 5px #00ff00;
+}
+
+button {
+	cursor: pointer;
+	background-color: #00ff00;
+	color: #1e1e1e;
+}
+
+#result {
+	margin-top: 20px;
+}
